@@ -1,3 +1,6 @@
+# Parent articles:
+https://threedots.tech/post/introducing-clean-architecture/
+
 # DDDSample
 [![Java CI with Maven](https://github.com/citerus/dddsample-core/actions/workflows/pipeline.yml/badge.svg)](https://github.com/citerus/dddsample-core/actions/workflows/pipeline.yml)
 
